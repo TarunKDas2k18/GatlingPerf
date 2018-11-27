@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CheckResponseViaObjects",
+  "simulationId": "checkresponseviaobjects",
+  "start": 1543079870114,
+  "description": "docker",
+  "scenarios": ["Event Reservation Service Search Event"],
+  "assertions": [
+
+  ]
+}

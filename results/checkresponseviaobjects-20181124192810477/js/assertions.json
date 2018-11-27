@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CheckResponseViaObjects",
+  "simulationId": "checkresponseviaobjects",
+  "start": 1543087690477,
+  "description": "",
+  "scenarios": ["Event Reservation Service Search Event"],
+  "assertions": [
+
+  ]
+}
